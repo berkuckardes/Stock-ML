@@ -1,0 +1,2 @@
+ticker,start,end,avg_accuracy,final_equity_strategy,final_equity_buyhold,cost_per_switch,price_col
+AAPL,2015-01-30,2025-08-18,0.530920060331825,4.741178347821046,6.236707673967601,0.0005,Close
